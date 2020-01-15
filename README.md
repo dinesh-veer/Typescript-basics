@@ -1,3 +1,3 @@
 # Typescript-basics
 
-Added tyscript basics for Angular inital learning..
+Added typescript basics for Angular inital learning..
